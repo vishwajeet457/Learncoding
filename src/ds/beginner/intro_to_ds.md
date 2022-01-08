@@ -1,5 +1,8 @@
+---
+permalink: /intro/
+---
+
 # Introduction to data structure
 
-[Next](array.html)
+[Next](array.md)
 
-[Next]({{ site.github.repository_url }}/src/ds/beginner/array.html)
