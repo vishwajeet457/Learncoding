@@ -5,3 +5,4 @@ layout:default
 ---
 
 # Learn Coding
+{% include_relative README.md %}
